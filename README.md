@@ -1,4 +1,4 @@
-# Name of app/project/product
+# API Playground
 ## Tagline or what it does
 
 ## Overview
